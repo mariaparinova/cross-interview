@@ -2,11 +2,16 @@
 
 ## 📬 Contacts
 
-If you want to arrange a cross-interview, feel free to reach out.
-I'd be happy to connect!
+**Name:** Maria
 
-| Platform | Contact |
-|----------|---------|
-| Telegram | `@mariw9`|
-| Discord  | `maria_pma`|
+**Discord:** maria_pma
+
+**Telegram:** @mariw9
+
+**Preferred Interview Times:** `UTC+1`
+- Monday-Friday, `11:00-15:30`
+- Saturday, `11:00-12:00`
+- Sunday, `11:00-12:00`, `18:00-19:00`
+
+
 
